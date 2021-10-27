@@ -1,12 +1,3 @@
-# MeanCourse
-
-
-See it in action!
-http://meanstackmymessages-env.eba-s2dimc2e.us-east-2.elasticbeanstalk.com/
-
-
-
-
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
 
